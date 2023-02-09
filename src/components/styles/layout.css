@@ -1,0 +1,5 @@
+.row > div {
+    background-color: #00ffff;
+    border: 2px solid #0d5dc6b1;
+    padding: 10px;
+}
